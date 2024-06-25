@@ -1,3 +1,6 @@
+# Ignoramos el directorio de entorno virtual
+data-science-unicen/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
